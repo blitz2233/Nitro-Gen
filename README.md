@@ -8,9 +8,7 @@ It is compatible with Windows 10 and 11 (x86/x64).
 
 Disclaimer Education Purpose Only. This project was created only for good purposes and personal use Please be aware that your action has consequences Be careful using this tool, I am warning you to use this tool for Education Purpose Only. Preview
 
-Installation 🔧 Automatic Installation - Launch setup.bat 🔧 Manual Installation - pip install -r requirements.txt & python vemon.py You need the latest python. install here
-
-Python was not Found? You probably just installed python
+Installation 🔧 Automatic Installation - Launch Nirtrogen.exe 🔧
 
 
 
