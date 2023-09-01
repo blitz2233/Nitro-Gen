@@ -19,3 +19,9 @@ Python was not Found? You probably just installed python
 
 
 ![68747470733a2f2f692e696d6775722e636f6d2f34516c444d55392e706e67](https://github.com/blitz2233/Nitro-Gen/assets/127241515/f53f9100-3e0f-41a3-b7b9-f62c8951475d)
+
+
+
+
+
+
