@@ -11,3 +11,6 @@ Disclaimer Education Purpose Only. This project was created only for good purpos
 Installation 🔧 Automatic Installation - Launch setup.bat 🔧 Manual Installation - pip install -r requirements.txt & python vemon.py You need the latest python. install here
 
 Python was not Found? You probably just installed python
+
+
+![Uploading image.png…]()
